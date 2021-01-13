@@ -1034,6 +1034,7 @@
       padding: 1em;
     }
   }
+
   @media print {
     header,
     footer {
