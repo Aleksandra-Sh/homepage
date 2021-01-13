@@ -229,7 +229,8 @@
     margin-right: auto;
   }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    article {
+    
+      article {
       width: 723px;
       margin-top: calc((100% - 723px) / 2);
       margin-bottom: calc((100% - 723px) / 2);
